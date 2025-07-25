@@ -1,6 +1,6 @@
 # Hello, I'm Farabi
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-kozybek/)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pharab1)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/campeonpapa)
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 ## Objective
